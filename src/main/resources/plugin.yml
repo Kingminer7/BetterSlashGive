@@ -1,0 +1,11 @@
+name: better_slashgive
+description: Change the /give command to support custom itemstacks!
+author: km7dev
+version: '${project.version}'
+main: codes.km7dev.better_slashgive.Better_slashgive
+api-version: '1.20'
+commands:
+  give:
+    permission: minecraft.command.give
+    description: Give yourself an item.
+    usage: '/give <player> <item> [amount]'

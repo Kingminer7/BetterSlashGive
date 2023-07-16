@@ -1,4 +1,4 @@
-package codes.km7dev.better_slashgive;
+package codes.km7dev.betterslashgive;
 
 public class Identifier {
     public String pluginId;

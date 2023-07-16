@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>codes.km7dev</groupId>
-    <artifactId>better_slashgive</artifactId>
+    <artifactId>betterslashgive</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>better_slashgive</name>
+    <name>betterslashgive</name>
 
     <properties>
         <java.version>1.8</java.version>

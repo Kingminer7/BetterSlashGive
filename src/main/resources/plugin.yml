@@ -2,7 +2,7 @@ name: betterslashgive
 description: Change the /give command to support custom itemstacks!
 author: km7dev
 version: '${project.version}'
-main: codes.km7dev.betterslashgive.BetterSlashgive
+main: codes.km7dev.betterslashgive.BetterSlashGive
 api-version: '1.20'
 commands:
   give:

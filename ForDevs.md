@@ -6,7 +6,7 @@ It's not that hard!
 All you need is this:
 ```java
 BetterSlashGive.instance.RegisterItemToGive(
-  item,
+  itemstack,
   new Identifier("modid", "itemname")
 );
 ```

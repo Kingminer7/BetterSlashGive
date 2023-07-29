@@ -6,7 +6,7 @@
 
     <groupId>codes.km7dev</groupId>
     <artifactId>betterslashgive</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>betterslashgive</name>
